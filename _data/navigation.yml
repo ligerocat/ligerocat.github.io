@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Go to home"
+  - title: "홈으로"
     url: "https://ligerocat.github.io/"
   - title: "파이썬"
     url: "/python/"
