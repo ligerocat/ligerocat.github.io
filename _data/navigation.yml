@@ -2,9 +2,9 @@
 main:
   - title: "Go to home"
     url: "https://ligerocat.github.io/"
-  - title: "Python"
+  - title: "파이썬"
     url: "/python/"
-  - title: "Machine Learning"
+  - title: "머신러닝"
     url: "/machine_learning/"
   - title: "실험실"
     url: "/lap/"
