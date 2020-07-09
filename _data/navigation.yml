@@ -8,7 +8,7 @@ main:
     url: "/machine_learning/"
   - title: "실험실"
     url: "/lap/"
-  - title: "Sitemap"
+  - title: "사이트맵"
     url: "/sitemap/"
   # - title: "Go to home"
   #  url: "https://ligerocat.github.io/"
