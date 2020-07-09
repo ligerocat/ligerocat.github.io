@@ -3,13 +3,13 @@ main:
   - title: "Go to home"
     url: "https://ligerocat.github.io/"
   - title: "Python"
-    url: "/Python/"
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Catagory"
-    url: /collection-archive/
+    url: "/python/"
+  - title: "Machine Learning"
+    url: "/machine_learning/"
+  - title: "실험실"
+    url: "/lap/"
   - title: "Sitemap"
-    url: /sitemap/
+    url: "/sitemap/"
   # - title: "Go to home"
   #  url: "https://ligerocat.github.io/"
   #- title: "Python"
